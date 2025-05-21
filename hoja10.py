@@ -1,3 +1,7 @@
+# Ginebra Sofia Estrada Morales (24079)
+# David Sebastian Lemus Nitchs (241155)
+# Luis Alejandro Hernandez Marquez (241424)
+
 import sys
 import math
 
